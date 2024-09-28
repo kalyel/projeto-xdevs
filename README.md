@@ -5,7 +5,8 @@ informações são exibidos em um formato de cartão <br> </p>
 
 <p>A seleção de personagens é feita através de setas tanto pra esquerda quanto pra direita. </p>
 
-![Screenshot_15](https://github.com/kalyel/portfolio-simplificado/assets/29384285/f48f3612-2cca-4a22-89ed-cabb1923e615)
+![Screenshot_15](https://github.com/user-attachments/assets/4c117b35-a3b9-459a-b8a9-475c4f7349d8)
+
 
 <p>Utilizando das tecnologias HTML, CSS e JavaScript.</p>
 <div style="display: inline_block">

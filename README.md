@@ -1,4 +1,4 @@
-<h1>Projeto Portfolio</h1>
+<h1>Projeto X-Devs</h1>
 <p>Projeto realizado no evento online, Do Zero ao Programador Contratado, do canal Dev em Dobro feito com fins de estudar programação. <br>
 O projeto demonstra uma lista de personagens ficticios baseados em personagens da serie X-men, com caracteristicas de desenvolvedores. Estes personagens e suas
 informações são exibidos em um formato de cartão <br> </p>
